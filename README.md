@@ -73,7 +73,9 @@ Link:
 https://candy.inichain.com/?invite=88X0E3WSMODCIMTJ0CQ4RO65Y
 
 ➖️ Connect your metamask wallet (Burner)
+
 ➖️ Complete all task on ([TASK PAGE](https://candy.inichain.com/taskOperate))
+
 ✅ Done
 
 Details: 
