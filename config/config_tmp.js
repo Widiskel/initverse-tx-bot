@@ -3,7 +3,7 @@ export class Config {
   static WAITFORBLOCKCONFIRMATION = true;
 
   static SWAPCOUNT = 144;
-  static TXAMOUNT = 0.1;
+  static TXAMOUNT = 0.001;
 
   static RPC = {
     CHAINID: 7234, //CHAIN ID EX: 123123
