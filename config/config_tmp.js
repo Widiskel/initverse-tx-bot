@@ -2,15 +2,8 @@ export class Config {
   static GWEIPRICE = 1.5;
   static WAITFORBLOCKCONFIRMATION = true;
 
+  static SWAPCOUNT = 144;
   static TXAMOUNT = 0.1;
-
-  static USEWRAPUNWRAP = true;
-  static WRAPUNWRAPCOUNT = 10;
-  static WETHCONTRACTADDRESS = "0xfbecae21c91446f9c7b87e4e5869926998f99ffe";
-
-  static USESELFTRANSFER = false;
-  static SELFTRANSFERCOUNT = 10;
-  static CONTRACTADDRESS = undefined;
 
   static RPC = {
     CHAINID: 7234, //CHAIN ID EX: 123123
