@@ -8,7 +8,7 @@ export class Config {
   static WRAPUNWRAPCOUNT = 10;
   static WETHCONTRACTADDRESS = "0xfbecae21c91446f9c7b87e4e5869926998f99ffe";
 
-  static USESELFTRANSFER = true;
+  static USESELFTRANSFER = false;
   static SELFTRANSFERCOUNT = 10;
   static CONTRACTADDRESS = undefined;
 
