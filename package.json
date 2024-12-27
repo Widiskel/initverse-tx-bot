@@ -10,7 +10,7 @@
     "deploy": "node deployer.js",
     "dev": "node index.js",
     "test": "node test.js",
-    "build": "rm -rf app && javascript-obfuscator --config build-config.json"
+    "build": "rm -rf app && javascript-obfuscator --config build-config.json && cp -r src/core/deployer app/src/core"
   },
   "keywords": [
     "initverse-bot",
